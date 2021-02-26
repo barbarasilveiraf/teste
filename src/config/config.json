@@ -1,0 +1,7 @@
+{
+"project_name": "teste2",
+"env_path": "teste2/teste2_env",
+"files_path": "../data/raw/",
+"key": "<<<<key>>>>",
+"user": "<<<<user>>>>"
+}
